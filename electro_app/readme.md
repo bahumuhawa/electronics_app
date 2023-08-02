@@ -1,8 +1,8 @@
-## Electronics Apps: Alexa, Cortana, Siri(virtual assistants)
+## Electronics Apps: Alexa, Cortana, and Siri (virtual assistants)
 
-Explore a small project of virtual assistants (Alexa, Cortana, Siri) with interactive cards, powered by React for a seamless experience. 
+Explore a small project of virtual assistants (Alexa, Cortana, and Siri) with interactive cards, powered by React for a seamless experience. 
 
-Getting started to use Electronics App, follow these simple steps:
+To get started using the Electronics App, follow these simple steps:
 
 1. Clone the Electronics App respository from github: https://github.com/bahumuhawa/electronics_app.git
 2. Open the project
